@@ -1,0 +1,15 @@
+#dragEle{
+    color : white;
+    width: 100%;
+    cursor: move;
+    overflow: hidden;
+    background-color: black;
+    position: absolute;
+    bottom : 0px;
+    justify-self: center;
+}
+#cont1{
+    display: flex;
+    justify-content: end;
+    margin: 5px;
+}
