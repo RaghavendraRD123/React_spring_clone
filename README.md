@@ -13,5 +13,5 @@
 <img src='https://user-images.githubusercontent.com/107551502/269851598-bef7c6e0-51ba-4d19-b483-a431d02a4cc9.png' alt="Image" />
 <h2>Close button : <p>to close the container</p> </h2>
 <img src='https://user-images.githubusercontent.com/107551502/269852995-9d857ad4-9f13-4250-a9f3-4e55099c7018.png' alt="Image" />
-<h2>It's also works with mobiles (touch screens)</h2>
+<h2>It also works with mobiles (touch screens).</h2>
 <img src='https://user-images.githubusercontent.com/107551502/269855590-7e444912-8901-4b9d-bc2e-511954dfd22b.png' alt="Image" />
