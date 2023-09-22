@@ -1,2 +1,2 @@
 # React_spring_clone
-<img src='' alt='' />
+<img src='./Images/closed-state.png' alt='closed-state Image' />
